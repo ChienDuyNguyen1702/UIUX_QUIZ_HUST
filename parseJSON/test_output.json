@@ -1,0 +1,3262 @@
+[
+  {
+    "question": "Phát biểu nào sau đây là đúng? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Con người có hai loại tế bào cảm quang"
+      },
+      {
+        "isCorrect": true,
+        "text": "Con người có ba loại bộ nhớ"
+      }
+    ]
+  },
+  {
+    "question": "Các thành phần chính của khung tương tác Abowd and Beale là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Người dùng, hệ thống, đầu vào, đầu ra"
+      }
+    ]
+  },
+  {
+    "question": "Các thành phần chính của giao diện là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Đầu vào"
+      },
+      {
+        "isCorrect": true,
+        "text": "đầu ra"
+      }
+    ]
+  },
+  {
+    "question": "Các thành phần chính của hệ tương tác là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Con người, máy tính, bối cảnh sử dụng và quy trình phát triển"
+      }
+    ]
+  },
+  {
+    "question": "Các yếu tố chính của ngữ cảnh tương tác là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Con người, hệ thống"
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây là sai ? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Độ tương phản giữa màu chữ và màu nền nhỏ làm cho văn bản dễ đọc"
+      },
+      {
+        "isCorrect": true,
+        "text": "Con người có năm kiểu lập luận"
+      },
+      {
+        "isCorrect": true,
+        "text": "Đĩa cứng là một dạng bộ nhớ ngắn hạn của máy tính"
+      }
+    ]
+  },
+  {
+    "question": "Mô hình nào cho phép mô tả người dùng làm gì, máy tính làm gì?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "HTA (Hierarchy Task Analysis)"
+      }
+    ]
+  },
+  {
+    "question": "Mô hình nào cho phép phân tích nhiệm vụ người dùng? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "OSTA (Open System Task Analysis)"
+      },
+      {
+        "isCorrect": true,
+        "text": "HTA (Hierarchy Task Analysis)"
+      }
+    ]
+  },
+  {
+    "question": "Định nghĩa tương tác người máy của Baecker và Buxton đề cập đến những yếu tố nào sau đây? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Quá trình"
+      },
+      {
+        "isCorrect": true,
+        "text": "Đối thoại"
+      },
+      {
+        "isCorrect": true,
+        "text": "Hành động"
+      }
+    ]
+  },
+  {
+    "question": "Định nghĩa tương tác người máy của ACM SIGCHI đề cập đến những yếu tố nào sau đây? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thiết kế"
+      },
+      {
+        "isCorrect": true,
+        "text": "Đánh giá"
+      },
+      {
+        "isCorrect": true,
+        "text": "Cài đặt"
+      }
+    ]
+  },
+  {
+    "question": "Các yếu tố nào không được xét đến khi mô tả cách thức và bối cảnh sử dụng máy tính? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Các kĩ thuật đối thoại"
+      },
+      {
+        "isCorrect": true,
+        "text": "Các thành phần xử lý của máy tính"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là các chủ đề cần nghiên cứu về con người trong tương tác người máy? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Kênh vào ra"
+      },
+      {
+        "isCorrect": true,
+        "text": "Bộ nhớ"
+      },
+      {
+        "isCorrect": true,
+        "text": "Lập luận"
+      }
+    ]
+  },
+  {
+    "question": "Yếu tố nào KHÔNG được đề cập đến như là một bộ phận của máy tính trong tương tác với người dùng?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Bộ nhớ máy tính"
+      }
+    ]
+  },
+  {
+    "question": "Đo, đánh giá tính dùng được của các hệ tương tác là đo, đánh giá những gì? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Năng suất"
+      },
+      {
+        "isCorrect": true,
+        "text": "Hiệu quả"
+      },
+      {
+        "isCorrect": true,
+        "text": "Mức độ thỏa mãn"
+      }
+    ]
+  },
+  {
+    "question": "Quy trình mô hình hoá yêu cầu người dùng theo OSTA gồm bao nhiêu bước ?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "8"
+      }
+    ]
+  },
+  {
+    "question": "Tính dùng được nghĩa là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Ít động não, ít động chân tay, mang lại trải nghiệm thú vị khi tương tác"
+      }
+    ]
+  },
+  {
+    "question": "Quy trình thiết kế tương tác gồm bao nhiêu bước?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "5"
+      }
+    ]
+  },
+  {
+    "question": "Tương tác theo mô hình chu trình thực hiện đánh giá gồm bao nhiêu giai đoạn?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "7"
+      }
+    ]
+  },
+  {
+    "question": "Các tiêu chí nào sau đây dùng để đo đánh giá tính dùng được:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Năng suất, hiệu quả, thỏa mãn"
+      }
+    ]
+  },
+  {
+    "question": "Cái gì không phải là thành phần cấu thành hệ tương tác?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Quá trình sử dụng máy tính."
+      }
+    ]
+  },
+  {
+    "question": "Nghiên cứu về công thái học giúp người phát triển tạo ra các hệ thống:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Phù hợp với các đặc tính vật lý của tương tác"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là đặc trưng của bộ nhớ dài hạn:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Cấu trúc tuyến tính"
+      }
+    ]
+  },
+  {
+    "question": "Các thiết bị nào là thiết bị ra? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Máy in"
+      },
+      {
+        "isCorrect": true,
+        "text": "Loa"
+      }
+    ]
+  },
+  {
+    "question": "Các thiết bị nào là thiết bị vào? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Bàn phím"
+      },
+      {
+        "isCorrect": true,
+        "text": "Chuột"
+      },
+      {
+        "isCorrect": true,
+        "text": "Bảng vẽ"
+      }
+    ]
+  },
+  {
+    "question": "Khả năng tiếp nhận âm thanh của con người phụ thuộc vào các yếu tố nào sau đây? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tần số"
+      },
+      {
+        "isCorrect": true,
+        "text": "Âm điệu"
+      },
+      {
+        "isCorrect": true,
+        "text": "Cường độ âm thanh"
+      }
+    ]
+  },
+  {
+    "question": "Người dùng quan tâm những gì khi tương tác với hệ thống?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Đầu vào và đầu ra của hệ thống"
+      }
+    ]
+  },
+  {
+    "question": "Những gì không phải đặc điểm của kiểu tương tác dòng lệnh? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Không tốn công đào tạo"
+      },
+      {
+        "isCorrect": true,
+        "text": "Dễ thích ứng dễ sửa lỗi"
+      },
+      {
+        "isCorrect": true,
+        "text": "Ít sai sót"
+      }
+    ]
+  },
+  {
+    "question": "Góc nhìn phụ thuộc vào những yếu tố nào sau đây?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Kích thước đối tượng và khoảng cách từ đối tượng đến mắt"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là mô thức cho phép người dùng tương tác mà không cần tập trung hình thành chủ ý ?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Mô thức tính toán khắp nơi"
+      }
+    ]
+  },
+  {
+    "question": "Lựa chọn nào sau đây không phải là một mức yêu cầu người dùng? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Hiệu quả"
+      },
+      {
+        "isCorrect": true,
+        "text": "Năng suất"
+      }
+    ]
+  },
+  {
+    "question": "Cần biết những gì về người dùng để xây dựng thành công hệ thống tương tác?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Khả năng tâm lý, khả năng tâm sinh lý"
+      }
+    ]
+  },
+  {
+    "question": "Hệ vận động cung cấp các chức năng tích hợp từ các hệ thống nào sau đây? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Hệ thần kinh"
+      },
+      {
+        "isCorrect": true,
+        "text": "Hệ cơ"
+      },
+      {
+        "isCorrect": true,
+        "text": "Hệ khớp"
+      }
+    ]
+  },
+  {
+    "question": "Thời gian lưu lại thông tin của bộ nhớ cảm nhận thị giác là bao nhiêu?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Khoảng 200ms"
+      }
+    ]
+  },
+  {
+    "question": "Nghiên cứu về HCI giúp người phát triển tạo ra các hệ thống:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "An toàn và dùng được"
+      }
+    ]
+  },
+  {
+    "question": "Mô hình tương tác bằng thị giác là sự phụ thuộc của cảm nhận thị giác vào những yếu tố nào?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Ánh sáng, độ sáng tối, màu sắc, kích thước"
+      }
+    ]
+  },
+  {
+    "question": "Những gì ảnh hưởng đến việc lựa chọn các phương pháp thu thập yêu cầu người dùng? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Loại thông tin muốn thu thập"
+      },
+      {
+        "isCorrect": true,
+        "text": "Nguồn thông tin cần thu thập"
+      },
+      {
+        "isCorrect": true,
+        "text": "Địa điểm và khả năng tiếp cận các bên liên quan"
+      }
+    ]
+  },
+  {
+    "question": "Yếu tố nào khó để nhận biết nhất đối với hệ thống thị giác?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Họa tiết"
+      }
+    ]
+  },
+  {
+    "question": "Những yếu tố nào sau đây ảnh hưởng đến nhận thức trực quan của thị giác? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Khoảng cách"
+      },
+      {
+        "isCorrect": true,
+        "text": "Kích thước và chiều cao"
+      }
+    ]
+  },
+  {
+    "question": "Thời gian lưu lại thông tin của bộ nhớ cảm nhận thính giác là bao nhiêu?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Khoảng 1500ms"
+      }
+    ]
+  },
+  {
+    "question": "Da người có thể cảm nhận được các kích thích nào sau đây? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Nhiệt"
+      },
+      {
+        "isCorrect": true,
+        "text": "Sức căng do áp suất"
+      },
+      {
+        "isCorrect": true,
+        "text": "Đáp ứng nhanh và chậm (cơ học)"
+      }
+    ]
+  },
+  {
+    "question": "Nguyên tắc nào sau đây không phải là nguyên tắc thiết kế của Shneiderman?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tính ánh xạ"
+      }
+    ]
+  },
+  {
+    "question": "Yêu cầu người dùng được hình dung theo 3 mức cao dần là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Chức năng >> Sử dụng >> Hài lòng"
+      }
+    ]
+  },
+  {
+    "question": "Thể thống nhất xuất hiện dựa vào tính tương tự khi nào trong các trường hợp sau đây?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Khi các đối tượng phân biệt có các thuộc tính trực quan tương tự nhau"
+      }
+    ]
+  },
+  {
+    "question": "Lập luận phản chứng là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tư duy trong trường hợp đối lập so với luận điểm cần chứng minh, từ đó chứng minh điều tư duy là sai dẫn tới điều cần chứng minh là đúng"
+      }
+    ]
+  },
+  {
+    "question": "Khi xây dựng hệ tương tác, cần quan tâm đến những khía cạnh nào của các nhiệm vụ cần yêu cầu hệ thống thực hiện?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Độ phức tạp về mặt tính toán của nhiệm vụ"
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào về hệ thống thính giác của con người sau đây là sai?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Con người có thể nghe được những âm thanh trong khoảng 15Hz đến 20 KHz"
+      }
+    ]
+  },
+  {
+    "question": "Điều nào sau đây đúng khi nói về hiệu ứng  Muller-Lyer?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Hiệu ứng Muller-Lyer làm người quan sát cảm nhận kích thước của vật được quan sát lớn hơn kích thước thật"
+      }
+    ]
+  },
+  {
+    "question": "Câu nào sau đây là sai khi nói về bộ nhớ dài hạn?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Bộ nhớ dài hạn thường được xử lý thông qua 3 giai đoạn"
+      }
+    ]
+  },
+  {
+    "question": "Các lỗi nào sau đây là sơ suất? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Người dùng biết dấu X trên cửa sổ là đóng cửa sổ nhưng lại ấn nhầm dấu bên cạnh \"_\" là ẩn cửa sổ"
+      },
+      {
+        "isCorrect": true,
+        "text": "Người dùng có ý định ấn vào nút thu nhỏ cửa sổ nhưng lại ấn nhầm sang nút đóng cửa sổ"
+      }
+    ]
+  },
+  {
+    "question": "Các trường hợp nào sau đây là được coi là sai sót của người dùng? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Người dùng dùng Microsoft Word nghĩ phím nhanh Ctrl+C là dán đoạn văn bản"
+      },
+      {
+        "isCorrect": true,
+        "text": "Người dùng nhầm tưởng nút lưu văn bản là nút in văn bản"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là ưu điểm khi sử dụng cách tương tác bằng ngôn ngữ tự nhiên?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Con người không phải học một cú pháp lệnh hay một phương pháp hoạt động của hệ tương tác"
+      }
+    ]
+  },
+  {
+    "question": "Kênh vào của hệ thống xử lý thông tin của con người là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Các cơ quan tiếp nhận các kích thích từ môi trường bên ngoài"
+      }
+    ]
+  },
+  {
+    "question": "Kênh ra của hệ thống xử lý thông tin của con người là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Bất cứ bộ phận nào của cơ thể thực hiện việc hồi đáp các kích thích từ môi trường bên ngoài"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là mô tả sai về bộ nhớ ngắn hạn:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thông tin từ bộ nhớ ngắn hạn bị quên hoặc được chuyển dịch sang bộ nhớ cảm nhận"
+      }
+    ]
+  },
+  {
+    "question": "Tính năng nào sau đây không phải là cung cấp thông tin phản hồi cho hành động người dùng?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Khi có cuộc gọi đến, ngắt các âm thanh từ các ứng dụng như media player đang hoạt động … và ưu tiên dành cho âm cuộc gọi"
+      }
+    ]
+  },
+  {
+    "question": "Tính phản hồi được thể hiện trong ví dụ nào sau đây? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Sau khi nhấn nút, có tiếng kêu phát ra"
+      },
+      {
+        "isCorrect": true,
+        "text": "Sau khi nhấn nút, nút bị mờ đi"
+      },
+      {
+        "isCorrect": true,
+        "text": "Hiển thị thông báo lỗi cho người dùng"
+      }
+    ]
+  },
+  {
+    "question": "Tính thế chỗ được thể hiện trong ví dụ nào sau đây?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Khi có cuộc gọi đến, nút kéo trên thanh cuộn nằm ở vị trí bên trái, nổi và có hình mũi tên hướng sang phải"
+      }
+    ]
+  },
+  {
+    "question": "Tính nhất quán bị vi phạm trong ví dụ nào sau đây?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Biểu tượng hình tin nhắn ở hai màn hình giao diện của cùng ứng dụng lại khác nhau"
+      }
+    ]
+  },
+  {
+    "question": "Tính ánh xạ bị vi phạm trong ví dụ nào sau đây?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Người dùng vuốt thanh cuộn lên trên mà màn hình lại di chuyển xuống dưới"
+      }
+    ]
+  },
+  {
+    "question": "Bước nào sau đây là một trong sáu bước thực hiện theo USTM?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Xác định và mô tả các nhóm làm việc, kể cả các nhóm chính thức và không chính thức"
+      }
+    ]
+  },
+  {
+    "question": "Coi con người như bộ xử lý thông tin, chúng ta xác định ba hệ thống con sau đây:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Bộ nhớ"
+      },
+      {
+        "isCorrect": true,
+        "text": "Hệ nhận thức"
+      },
+      {
+        "isCorrect": true,
+        "text": "Hệ vận động"
+      }
+    ]
+  },
+  {
+    "question": "Quy tắc vàng của thiết kế giao diện hướng người dùng là gì?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Hiểu người dùng"
+      }
+    ]
+  },
+  {
+    "question": "Cái gì không phải nguyên tắc thiết kế lấy người dùng làm trung tâm (UCD)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Phỏng vấn"
+      }
+    ]
+  },
+  {
+    "question": "Bước nào sau đây không phải là một trong tám bước thực hiện theo OSTA?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Xác định và mô tả các cặp nhiệm vụ - đối tượng"
+      }
+    ]
+  },
+  {
+    "question": "Bước nào sau đây là một trong bảy bước thực hiện theo SSM?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Ghi nhận các vấn đề và bắt đầu phân tích"
+      }
+    ]
+  },
+  {
+    "question": "Bước nào sau đây là một trong sáu bước thực hiện theo USTM?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Mô tả ngữ cảnh tổ chức"
+      }
+    ]
+  },
+  {
+    "question": "Người dùng tiềm năng của một hệ tương tác được mô hình hóa bởi:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tri thức, hành vi, năng lực, năng suất, sự tập trung"
+      }
+    ]
+  },
+  {
+    "question": "Nhận định nào SAI về kỹ thuật đặt câu hỏi ? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Chỉ nên thiết kế câu hỏi mở cho người dùng"
+      },
+      {
+        "isCorrect": true,
+        "text": "Không nên sử dụng kỹ thuật đặt câu hỏi phối hợp với các kỹ thuật khác"
+      }
+    ]
+  },
+  {
+    "question": "Kỹ thuật nào không phải đánh giá hình thành?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Logging and tracking"
+      }
+    ]
+  },
+  {
+    "question": "2 đặc trưng của kiểu tương tác dòng lệnh là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thích hợp với nhiệm vụ có tính lặp lại"
+      },
+      {
+        "isCorrect": true,
+        "text": "Thích hợp với những người có kinh nghiệm"
+      }
+    ]
+  },
+  {
+    "question": "Khả năng của con người bị giới hạn bởi:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Cảm xúc, trạng thái"
+      }
+    ]
+  },
+  {
+    "question": "Trong các loại mẫu thử dưới đây, mẫu thử nào có độ tin cậy cao nhất?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Computer – based scenario simulation"
+      }
+    ]
+  },
+  {
+    "question": "Kỹ thuật nào được sử dụng để đánh giá hình thành?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Cognitive walkthrough"
+      }
+    ]
+  },
+  {
+    "question": "Kỹ thuật nào không phải kỹ thuật đánh giá sơ kết?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Cognitive walkthrough"
+      }
+    ]
+  },
+  {
+    "question": "Để xây dựng thành công các hệ thống tương tác, chúng ta cần biết về: (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Khả năng tâm lý, khả năng tâm sinh lý của người dùng hệ thống"
+      },
+      {
+        "isCorrect": true,
+        "text": "Những nhiệm vụ cần yêu cầu hệ thống thực hiện: loại nhiệm vụ, các khía cạnh tổ chức và môi trường"
+      },
+      {
+        "isCorrect": true,
+        "text": "Các ràng buộc kỹ thuật của môi trường trong đó hệ thống thực hiện nhiệm vụ"
+      }
+    ]
+  },
+  {
+    "question": "Bước nào sau đây là một trong tám bước thực hiện theo OSTA?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Xác định đầu vào của các nhiệm vụ (bên ngoài hệ thống)"
+      }
+    ]
+  },
+  {
+    "question": "Giao diện nào sau đây là giao diện người dùng hữu cơ?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Máy tính bảng dẻo nhận đầu vào từ các hành động miết, gập"
+      }
+    ]
+  },
+  {
+    "question": "WIMP là viết tắt của:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Windows, Icons, Menus, Pointer"
+      }
+    ]
+  },
+  {
+    "question": "Có những loại quy trình phỏng vấn nào? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Có cấu trúc"
+      },
+      {
+        "isCorrect": true,
+        "text": "Không cấu trúc"
+      },
+      {
+        "isCorrect": true,
+        "text": "Bán cấu trúc"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là các mô hình yêu cầu người dùng? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "OSTA"
+      },
+      {
+        "isCorrect": true,
+        "text": "USTM"
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là ưu điểm của kiểu giao tiếp điền mẫu (form fill-in) ?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Phù hợp cho chuyên gia do cách nhập trực tiếp và có nhiều tùy chọn cho các câu lệnh trong từng bối cảnh nhất định"
+      }
+    ]
+  },
+  {
+    "question": "Điều nào sau đây là không đúng khi xây dựng danh mục hỏi đáp cho người dùng?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Câu hỏi dạng mở, để người dùng trình bày được những gì mình mong muốn"
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là khuyến cáo khi xây dựng menu tuyến tính ?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Người dùng không thể hoàn tác"
+      }
+    ]
+  },
+  {
+    "question": "3 giao diện nào sau đây là giao diện con người (human interface)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Giao diện IPod"
+      },
+      {
+        "isCorrect": true,
+        "text": "Giao diện máy tính cá nhân"
+      },
+      {
+        "isCorrect": true,
+        "text": "Giao diện điện thoại Blackberry"
+      }
+    ]
+  },
+  {
+    "question": "2 giao diện nào sau đây là giao diện người dùng (user interface)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Giao diện terminal trong Ubuntu"
+      },
+      {
+        "isCorrect": true,
+        "text": "Giao diện trang web tìm kiếm Google"
+      }
+    ]
+  },
+  {
+    "question": "Một người dùng thực hiện quay hoặc dịch chuyển các vật thể trên bề mặt thiết bị để chơi nhạc, tương tác này thuộc loại nào?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Giao diện tự nhiên"
+      }
+    ]
+  },
+  {
+    "question": "Các dòng máy tính cá nhân phổ biến trong những năm 1980 sử dụng giao diện loại nào?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Giao diện văn bản"
+      }
+    ]
+  },
+  {
+    "question": "Công cụ chủ yếu để người dùng nhập liệu trong giao diện văn bản là gì?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Bàn phím"
+      }
+    ]
+  },
+  {
+    "question": "Công cụ chủ yếu để người dùng nhập liệu trong giao diện ngôn ngữ tự nhiên là gì?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Micro"
+      }
+    ]
+  },
+  {
+    "question": "Các công cụ chủ yếu để người dùng nhập liệu trong giao diện tự nhiên là gì? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Micro"
+      },
+      {
+        "isCorrect": true,
+        "text": "Màn hình cảm ứng"
+      },
+      {
+        "isCorrect": true,
+        "text": "Cảm biến vân tay"
+      }
+    ]
+  },
+  {
+    "question": "Đặc tính nào không được xem xét khi thiết kế hệ tương tác theo khía cạnh công thái học?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Phục hồi"
+      }
+    ]
+  },
+  {
+    "question": "Mô hình nào sau đây không được sử dụng để mô hình hóa yêu cầu người dùng?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "HTA"
+      }
+    ]
+  },
+  {
+    "question": "Các mô hình người dùng nào sau đây thuộc nhóm các mô hình kỹ thuật xã hội? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "USTM/CUSTOM"
+      },
+      {
+        "isCorrect": true,
+        "text": "OSTA"
+      }
+    ]
+  },
+  {
+    "question": "Khi thiết kế cây ATM thì vị trí đặt bàn phím cần thỏa mãn điều kiện công thái học nào sau đây?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thiết kế tính toán đến độ tuổi người dùng, và điều chỉnh sao cho phù hợp với năng lực hành vi của các đối tượng người dùng khác nhau"
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây là sai?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Bộ nhớ cảm nhận của con người giới hạn bởi 7+/-2 mục tin"
+      }
+    ]
+  },
+  {
+    "question": "Các trường hợp nào thể hiện sự ràng buộc văn hóa trong nguyên tắc thiết kế giao diện của Norman? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Ký hiệu X được sử dụng là ký hiệu đánh dấu câu trả lời đúng và sai tùy thuộc vào từng quốc gia"
+      },
+      {
+        "isCorrect": true,
+        "text": "Ký hiệu tam giác viền đỏ là ký hiệu cảnh báo được sử dụng trên toàn thế giới"
+      }
+    ]
+  },
+  {
+    "question": "Trường hợp nào thể hiện sự ràng buộc vật lý trong nguyên tắc thiết kế giao diện của Norman?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Cổng HDMI được thiết kế với một đầu to một đầu nhỏ khiến người dùng không thể cắm ngược"
+      }
+    ]
+  },
+  {
+    "question": "Các trường hợp nào thể hiện sự ràng buộc logic trong nguyên tắc thiết kế giao diện của Norman? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Đĩa CD có dán nhãn để người dùng không đưa ngược chiều đĩa vào đầu đọc"
+      },
+      {
+        "isCorrect": true,
+        "text": "Viền đỏ, xanh xung quanh chân cắm của loa tương ứng với màu của dây cắm vào từng vị trí"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là một mô hình phân rã nhiệm vụ?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "HTA"
+      }
+    ]
+  },
+  {
+    "question": "GOMS là cụm từ viết tắt của từ nào?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Goals Operators Methods Selections"
+      }
+    ]
+  },
+  {
+    "question": "TAG là cụm từ viết tắt của từ nào?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Task-Action Grammar"
+      }
+    ]
+  },
+  {
+    "question": "Luật để mô tả văn phạm đối thoại BNF có dạng nào?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "biểu thức;"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là các kỹ thuật sử dụng để mô hình hóa yêu cầu người dùng? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Phỏng vấn"
+      },
+      {
+        "isCorrect": true,
+        "text": "Quan sát tự nhiên"
+      },
+      {
+        "isCorrect": true,
+        "text": "Phân tích tài liệu"
+      }
+    ]
+  },
+  {
+    "question": "Các mô thức đánh giá nào có kết quả đánh giá mang tính định lượng? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Usability Testing"
+      },
+      {
+        "isCorrect": true,
+        "text": "Field Studies"
+      }
+    ]
+  },
+  {
+    "question": "Trong các ví dụ sau, ví dụ nào không thể hiện ràng buộc về văn hóa theo các nguyên tắc thiết kế của Norman?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Không thể điều chỉnh giảm âm lượng khi vạch chỉ mức độ âm lượng bằng 0"
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây là ĐÚNG khi nói về mô hình đa cách nhìn (multiview model)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Là một cách tiếp cận tổ hợp nhiều cách tiếp cận trong một giai đoạn, có phương pháp kiểm tra"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là mục tiêu của phương pháp nghiên cứu thị trường (field studies)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Đánh giá xem công nghệ ảnh hưởng như thế nào đến các công việc hàng ngày của người dùng"
+      }
+    ]
+  },
+  {
+    "question": "Những mô tả nào không thể hiện ràng buộc logic theo nguyên tắc của Norman? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Biểu tượng nhận cuộc gọi trên máy điện thoại có hình ống nghe màu xanh và có mũi tên hướng sang phải; biểu tượng từ chối cuộc gọi có hình ống nghe màu đỏ kèm theo dấu gạch và mũi tên hướng sang trái"
+      },
+      {
+        "isCorrect": true,
+        "text": "Thanh cuộn của chuột máy tính chỉ có thể miết lên trên hoặc xuống dưới để điều khiển"
+      }
+    ]
+  },
+  {
+    "question": "Mô tả nào thể hiện tính thế chỗ (affordance) theo nguyên tắc của Norman?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thanh cuộn của chuột máy tính chỉ có thể miết lên trên hoặc xuống dưới để điều khiển"
+      }
+    ]
+  },
+  {
+    "question": "Mô tả nào thể hiện tính ánh xạ (mapping) theo nguyên tắc của Norman?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Biểu tượng nhận cuộc gọi trên máy điện thoại có hình ống nghe màu xanh và có mũi tên hướng sang phải; biểu tượng từ chối cuộc gọi có hình ống nghe màu đỏ kèm theo dấu gạch và mũi tên hướng sang trái"
+      }
+    ]
+  },
+  {
+    "question": "Các nguyên tắc thiết kế nào của Norman tương ứng với nguyên tắc thiết kế hội thoại đảm bảo tính đóng của Shneiderman? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tính trực quan"
+      },
+      {
+        "isCorrect": true,
+        "text": "Tính phản hồi"
+      }
+    ]
+  },
+  {
+    "question": "Với cùng số lượng người dùng, phương pháp thiết kế lấy người dùng làm trung tâm (UCD) nào sau đây có chi phí thực hiện cao nhất?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Interviews"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là các cách tiếp cận của kỹ thuật tạo mẫu thử mô phỏng bằng máy tính (computer - based simulation)? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tạo mẫu thử theo chiều dọc"
+      },
+      {
+        "isCorrect": true,
+        "text": "Tạo mẫu thử theo chiều ngang"
+      },
+      {
+        "isCorrect": true,
+        "text": "Tạo mẫu thử theo kịch bản"
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây là SAI khi nói về mô hình nhận thức (mental model)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Mô hình nhận thức đại diện cho những gì được cho là sai, không đại diện cho những gì được cho là đúng"
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây là SAI khi nói về mẫu thử độ tin cậy thấp (Lo-FI prototypes)? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Mẫu thử độ tin cậy thấp có tính tương tác đầy đủ"
+      },
+      {
+        "isCorrect": true,
+        "text": "Mẫu thử độ tin cậy thấp mô phỏng hầu hết các chức năng của sản phẩm cuối cùng"
+      }
+    ]
+  },
+  {
+    "question": "Mô tả nào sau đây khớp với phương pháp đánh giá như hình với bóng (shadowing method)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Một người dùng chuyên gia ngồi cạnh người dùng bình thường để tìm cách giải thích hành vi của người dùng thường cho người kiểm thử"
+      }
+    ]
+  },
+  {
+    "question": "Để hỗ trợ người dùng tránh lỗi hoặc khắc phục lỗi, không cần trả lời câu hỏi nào sau đây?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Người dùng mục tiêu là những ai ?"
+      }
+    ]
+  },
+  {
+    "question": "Kỹ thuật phù thủy xứ thần tiên (wizard of Oz) thường được sử dụng để: (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thiết kế hệ thống thông minh"
+      },
+      {
+        "isCorrect": true,
+        "text": "Mô phỏng các chức năng khó cài đặt dưới dạng mẫu thử"
+      },
+      {
+        "isCorrect": true,
+        "text": "Thử nghiệm cho các hệ thống không tồn tại"
+      }
+    ]
+  },
+  {
+    "question": "Để thiết kế website theo thị hiếu người dùng, cần trả lời câu hỏi nào sau đây?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Người dùng mục tiêu là những ai ?"
+      }
+    ]
+  },
+  {
+    "question": "Điều nào sau đây là sai với phương pháp nghiên cứu tài liệu (studying documentation)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Không cần làm rõ phạm vi thu thập"
+      }
+    ]
+  },
+  {
+    "question": "Chỉ ra 2 lý do cần thiết kế lấy người dùng làm trung tâm (UCD):",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Cải thiện tính dùng được và tính hữu dụng của sản phẩm"
+      },
+      {
+        "isCorrect": true,
+        "text": "Tìm kiếm câu trả lời cho câu hỏi về người dùng, các nhiệm vụ và các mục tiêu tương ứng, từ đó định hướng việc thiết kế và phát triển"
+      }
+    ]
+  },
+  {
+    "question": "Tính dùng được của website KHÔNG phụ thuộc vào yếu tố nào?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Người thiết kế"
+      }
+    ]
+  },
+  {
+    "question": "Cái gì sau đây thuộc về quy trình phát triển Web? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Sản phẩm"
+      },
+      {
+        "isCorrect": true,
+        "text": "Thăm dò"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là các nguyên tắc của thiết kế Web? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tổ chức"
+      },
+      {
+        "isCorrect": true,
+        "text": "Tiết kiệm"
+      },
+      {
+        "isCorrect": true,
+        "text": "Giao tiếp"
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây là đúng về định hướng sử dụng màu sắc trong ngôn ngữ thiết kế vật chất (material design)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Màu tương phản và rực rỡ"
+      }
+    ]
+  },
+  {
+    "question": "Cái nào không phải là ngôn ngữ thiết kế thông dụng cho các ứng dụng di động hiện nay?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thiết kế màn hình (Screen design)"
+      }
+    ]
+  },
+  {
+    "question": "Phương án nào thể hiện đúng mỗi liên hệ giữa sự phát triển phần cứng, giao diện và sự đa dạng của người dùng:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Phần cứng - Giao diện - Người dùng"
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là nguyên lý chính được sử dụng trong thiết kế giao diện di động?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thu nhỏ giao diện desktop hiện có"
+      }
+    ]
+  },
+  {
+    "question": "Thuộc tính cố hữu của mô hình tính toán khắp nơi mà không thể xử lý như xử lý lỗi là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Mất kết nối"
+      }
+    ]
+  },
+  {
+    "question": "Phương pháp đánh giá kèm cặp (coaching method) dùng để làm gì?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tìm hiểu nhu cầu thông tin của người dùng để hướng dẫn và cung cấp tài liệu tốt hơn, cũng như có thể thiết kế lại giao diện để tránh người dùng thắc mắc"
+      }
+    ]
+  },
+  {
+    "question": "Phương pháp phát biểu suy nghĩ (think aloud protocol) dùng để làm gì?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Lấy phản hồi từ người dùng về một chức năng quan trọng hoặc lấy báo cáo định kỳ từ người dùng"
+      }
+    ]
+  },
+  {
+    "question": "Phương pháp đặt câu hỏi (question-asking protocol) dùng để làm gì?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Hiểu mô hình nhận thức của người dùng về hệ thống và các nhiệm vụ, họ gặp khó khăn ở đâu khi tìm hiểu và sử dụng hệ thống"
+      }
+    ]
+  },
+  {
+    "question": "Mô tả nào sau đây khớp với phương pháp đánh giá kèm cặp (coaching method)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Người dùng chuyên gia theo sát người dùng bình thường để chỉ dẫn cho họ cách sử dụng hệ thống"
+      }
+    ]
+  },
+  {
+    "question": "Mô tả nào sau đây khớp với phương pháp đánh giá từ xa (remote testing)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Có phần mềm tự động hướng dẫn người dùng thực hiện các nhiệm vụ và ghi lại các hoạt động của người dùng"
+      }
+    ]
+  },
+  {
+    "question": "Mô tả nào sau đây khớp với phương pháp kiểm thử hồi tưởng (retrospective testing)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Người kiểm thử cùng xem lại các phiên kiểm thử đã được ghi lại với người dùng, hỏi lại người dùng về những gì đã xảy ra"
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là khuyến cáo khi thiết kế giao diện cho các trò chơi trên thiết bị di động?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tránh sử dụng các phím điều khiển có sẵn trên thiết bị"
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là khuyến cáo khi thiết kế giao diện cho các trò chơi trên thiết bị di động?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Loại bỏ các chức năng lưu và tạm dừng"
+      }
+    ]
+  },
+  {
+    "question": "Phương pháp cùng khám phá (co-discovery learning method) dùng để làm gì?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Kiểm thử tính dùng được của các sản phẩm hỗ trợ người dùng làm việc trong môi trường cộng tác"
+      }
+    ]
+  },
+  {
+    "question": "Điều gì sau đây là đúng với phương pháp đánh giá heuristic?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Một nhóm các chuyên gia đánh giá khả năng sử dụng một giao diện người dùng theo một tập hợp các nguyên tắc chung"
+      }
+    ]
+  },
+  {
+    "question": "Mô tả nào sau đây tương ứng với giao diện đồ họa (GUI)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Cho phép người dùng giao tiếp với máy tính thông qua các biểu tượng, biểu trưng trực quan và thiết bị trỏ"
+      }
+    ]
+  },
+  {
+    "question": "Mô tả nào tương ứng với nguyên tắc thiết kế web “Tiết kiệm”? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tận dụng các quy ước thiết kế hiện có, chỉ thay đổi khi người thiết kế chắc chắn ý tưởng của họ tốt hơn"
+      },
+      {
+        "isCorrect": true,
+        "text": "Người dùng làm đc nhiều việc nhất với ít yếu tố thị giác nhất"
+      }
+    ]
+  },
+  {
+    "question": "Mô tả nào tương ứng với nguyên tắc thiết kế web “Giao tiếp”?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Biểu diễn nội dung phù hợp với khả năng của người dùng"
+      }
+    ]
+  },
+  {
+    "question": "Mô tả nào tương ứng với nguyên tắc thiết kế web “Tổ chức”?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Cung cấp cho người dùng một cấu trúc rõ ràng nhất quán"
+      }
+    ]
+  },
+  {
+    "question": "Yêu cầu về môi trường tương tác bao gồm:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Yêu cầu về bối cảnh sử dụng, xã hội, mức độ người dùng hỗ trợ thực hiện nhiệm vụ và các công nghệ liên quan"
+      }
+    ]
+  },
+  {
+    "question": "Với mô thức đánh giá quick and dirty, cần:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tranh luận không chính thức với người dùng ở bất cứ khi nào khi sử dụng được mẫu thử"
+      }
+    ]
+  },
+  {
+    "question": "Với mô thức đánh giá field studies, cần:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Đến chỗ người dùng phỏng vấn hay quan sát việc sử dụng mẫu thử"
+      }
+    ]
+  },
+  {
+    "question": "Với mô thức đánh giá predictive, cần: (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Đánh giá mà không cần sự có mặt của người dùng"
+      },
+      {
+        "isCorrect": true,
+        "text": "Sử dụng sự hiểu biết của các chuyên gia về người dùng để dự đoán các vấn đề về tính dùng được"
+      }
+    ]
+  },
+  {
+    "question": "Với mô thức đánh giá usability testing, cần:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Quan sát người dùng và ghi lại hiệu suất người dùng khi thực hiện các nhiệm vụ"
+      }
+    ]
+  },
+  {
+    "question": "Có thể áp dụng phương pháp phát biểu suy nghĩ (think aloud protocol) vào giai đoạn nào trong quá trình phát triển hệ tương tác, kết quả đánh giá là định lượng hay định tính?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Áp dụng ở bất cứ giai đoạn nào, kết quả là định tính"
+      }
+    ]
+  },
+  {
+    "question": "Có thể áp dụng phương pháp theo sát như hình với bóng (shadowing method) vào giai đoạn nào trong quy trình phát triển hệ tương tác, kết quả đánh giá là định lượng hay định tính?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Áp dụng ở giai đoạn kiểm thử, kết quả là định lượng"
+      }
+    ]
+  },
+  {
+    "question": "Có thể áp dụng phương pháp đo hiệu năng (performance measurement) vào giai đoạn nào trong quy trình phát triển hệ tương tác, kết quả đánh giá là định lượng hay định tính?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Áp dụng ở giai đoạn kiểm thử, kết quả là định lượng"
+      }
+    ]
+  },
+  {
+    "question": "Có thể áp dụng phương pháp hướng dẫn (teaching method) vào giai đoạn nào trong quy trình phát triển hệ tương tác, kết quả đánh giá là định lượng hay định tính?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Áp dụng ở giai đoạn kiểm thử, kết quả là định tính"
+      }
+    ]
+  },
+  {
+    "question": "Có thể áp dụng phương pháp đặt câu hỏi (questing-asking protocol) vào giai đoạn nào trong quy trình phát triển hệ tương tác, kết quả đánh giá là định lượng hay định tính?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Áp dụng ở giai đoạn kiểm thử, kết quả là định tính"
+      }
+    ]
+  },
+  {
+    "question": "Có thể áp dụng phương pháp kiểm thử từ xa (remote testing) vào giai đoạn nào trong quy trình phát triển hệ tương tác, kết quả đánh giá là định lượng hay định tính?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Áp dụng ở giai đoạn kiểm thử, kết quả là định lượng"
+      }
+    ]
+  },
+  {
+    "question": "Có thể áp dụng phương pháp kiểm thử hồi tưởng (retrospective testing) vào giai đoạn nào trong quy trình phát triển hệ tương tác, kết quả đánh giá là định lượng hay định tính?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Áp dụng ở giai đoạn kiểm thử, kết quả là định lượng"
+      }
+    ]
+  },
+  {
+    "question": "Câu nào sau đây đúng về phương pháp cùng khám phá (co-discovery learning)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Phương pháp này có thể áp dụng trong bất kỳ giai đoạn nào của quy trình phát triển hệ tương tác"
+      }
+    ]
+  },
+  {
+    "question": "Câu nào sau đây đúng về phương pháp kèm cặp (coaching method)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Người tham gia sẽ được chuyên gia kèm cặp hỗ trợ"
+      }
+    ]
+  },
+  {
+    "question": "Câu nào sau đây đúng về phương pháp phát biểu suy nghĩ (think aloud protocol)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Người dùng được yêu cầu viết ra cảm tưởng, suy nghĩ và ý kiến cá nhân khi sử dụng hệ thống"
+      }
+    ]
+  },
+  {
+    "question": "Mô hình nào cho phép dự báo dãy các thao tác và thời gian thực hiện theo mô hình xử lý của con người?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "CMN GOMS"
+      }
+    ]
+  },
+  {
+    "question": "Cách tổ chức của một website được quy định bởi cái gì? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Sơ đồ web site"
+      },
+      {
+        "isCorrect": true,
+        "text": "Luồng duyệt giữa các trang trong một website"
+      },
+      {
+        "isCorrect": true,
+        "text": "Bố cục trang web"
+      }
+    ]
+  },
+  {
+    "question": "Kỹ thuật tạo mẫu thử nào cho phép tạo ra cách hoạt động chi tiết cho một số tính năng được chọn?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Vertical prototypes"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là những nhân tố ảnh hưởng đến thành công của thiết kế giao diện web? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tính dùng được"
+      },
+      {
+        "isCorrect": true,
+        "text": "Tính tiện lợi"
+      }
+    ]
+  },
+  {
+    "question": "Tính hữu dụng (usefulness) của một hệ tương tác được hiểu là sự phối hợp giữa: (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tính dùng được (usability)"
+      },
+      {
+        "isCorrect": true,
+        "text": "Tính tiện lợi (Utility)"
+      }
+    ]
+  },
+  {
+    "question": "Các hành động nào sau đây không thuộc về quy trình phát triển website?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tạo nội dung"
+      }
+    ]
+  },
+  {
+    "question": "Chúng ta sử dụng các phương thức nào sau đây để thu thập dữ liệu định lượng ? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Shadowing"
+      },
+      {
+        "isCorrect": true,
+        "text": "Performance measurement"
+      }
+    ]
+  },
+  {
+    "question": "Chúng ta sử dụng các kỹ thuật nào sau đây để đánh giá hình thành? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Pencils and papers mockups"
+      },
+      {
+        "isCorrect": true,
+        "text": "Walkthrough"
+      }
+    ]
+  },
+  {
+    "question": "Hành động nào sau đây không thuộc về quy trình phát triển website?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Kết xuất nội dung"
+      }
+    ]
+  },
+  {
+    "question": "Các câu hỏi phải trả lời khi thiết kế các điều hướng cho giao diện di động là: (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Ta đang ở đâu?"
+      },
+      {
+        "isCorrect": true,
+        "text": "Ta có thể di chuyển đến đâu?"
+      }
+    ]
+  },
+  {
+    "question": "Những gì không là mục tiêu của HTA? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Đặc tả hội thoại người dùng / máy tính"
+      },
+      {
+        "isCorrect": true,
+        "text": "Đo hiệu năng thực hiện của máy tính"
+      }
+    ]
+  },
+  {
+    "question": "Để dự đoán thời gian thực hiện của người dùng, cần sử dụng mô hình nào?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "KLM GOMS"
+      }
+    ]
+  },
+  {
+    "question": "Lựa chọn nào sau đây không phải vấn đề thường gặp khi thiết kế giao diện di động?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thỏa mãn sự thay đổi nhu cầu người dùng một cách linh hoạt"
+      }
+    ]
+  },
+  {
+    "question": "Khi thiết kế giao diện di động, chúng ta phải bảo đảm những gì?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Hỗ trợ tạm dừng và lưu đối với trò chơi di động"
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây là sai với thiết kế vật chất (Material design)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Material design là thiết kế phẳng"
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải là nguyên tắc heuristic để tinh chỉnh HTA:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Chia để trị"
+      }
+    ]
+  },
+  {
+    "question": "Có mấy loại ứng dụng di động, là những loại nào?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "3 loại: hybrid app, mobile web app, native app"
+      }
+    ]
+  },
+  {
+    "question": "Thiết kế luồng duyệt màn hình di động có thể đem đến các loại trải nghiệm nào sau đây cho người dùng:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Adequate experience"
+      }
+    ]
+  },
+  {
+    "question": "Định nghĩa của ACM SIGCHI về tương tác người máy không đề cập đến các đối tượng nào sau đây? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Con người"
+      },
+      {
+        "isCorrect": true,
+        "text": "Môi trường phát triển"
+      },
+      {
+        "isCorrect": true,
+        "text": "Máy tính"
+      }
+    ]
+  },
+  {
+    "question": "Môi trường và ngữ cảnh của hệ tương tác không bị giới hạn bởi yếu tố tổ chức, xã hội, công việc, lĩnh vực ứng dụng nào?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thiết bị đầu cuối"
+      }
+    ]
+  },
+  {
+    "question": "Bối cảnh xã hội ảnh hưởng như thế nào đến thiết kế hệ thống tương tác điều khiển các thiết bị trên xe hơi ?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Chức năng, kênh tương tác, giao diện, khả năng điều khiển"
+      }
+    ]
+  },
+  {
+    "question": "Mệnh đề nào sau đây nói về mục tiêu của màu sắc trong tiếp nhận thông tin trực quan của con người ? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Màu sắc được sử dụng để gợi nhớ các dữ liệu đặc biệt"
+      },
+      {
+        "isCorrect": true,
+        "text": "Màu sắc được sử dụng để tăng cường sự gợi nhớ, ghi nhớ"
+      },
+      {
+        "isCorrect": true,
+        "text": "Màu sắc được sử dụng để tăng số lượng mã hóa dữ liệu"
+      }
+    ]
+  },
+  {
+    "question": "Các kỹ thuật thu thập dữ liệu có thể được phối hợp với nhau KHÔNG dựa trên yếu tố nào?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Định hướng thu thập dữ liệu"
+      }
+    ]
+  },
+  {
+    "question": "Đặt câu hỏi là một trong các kỹ thuật thu thập dữ liệu. Trong số các mệnh đề sau đây về thiết kế câu hỏi, mệnh đề nào sai ? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Không cần các phiên bản khác nhau của bảng câu hỏi cho các tập người dùng khác nhau"
+      },
+      {
+        "isCorrect": true,
+        "text": "Người dùng quyết định nội dung bảng câu hỏi thiên về tích cực, tiêu cực hay đan xen"
+      }
+    ]
+  },
+  {
+    "question": "Vấn đề nào sau đây không phải là vấn đề chính của việc thu thập yêu cầu người dùng?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "chất của kỹ thuật"
+      }
+    ]
+  },
+  {
+    "question": "……. được thực hiện theo kịch bản nhưng những vấn đề thú vị có thể được khám phá sâu hơn. Loại phỏng vấn này có thể duy trì sự cân bằng giữa tính phong phú của nội dung phỏng vấn và khả năng nhân rộng kịch bản phỏng vấn.",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Phỏng vấn bán cấu trúc"
+      }
+    ]
+  },
+  {
+    "question": "……. được thực hiện theo một kịch bản chặt chẽ, thường giống như một bảng câu hỏi. Kiểu phỏng vấn này có thể nhân rộng nhưng có thể thiếu sự phong phú về mặt nội dung phỏng vấn.",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Phỏng vấn có cấu trúc"
+      }
+    ]
+  },
+  {
+    "question": "Yếu tố nào không ảnh hưởng đến việc lựa chọn phương pháp thu thập yêu cầu của người dùng? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Quy trình, nguyên tắc và tiêu chuẩn thu thập thông tin"
+      },
+      {
+        "isCorrect": true,
+        "text": "Nhóm người dùng trọng tâm"
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây về mẫu thử và quá trình tạo mẫu thử là ĐÚNG? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Trong thiết kế tương tác, mẫu thử giao diện có thể được sử dụng để kiểm tra các phần có thể nhìn thấy của thiết kế"
+      },
+      {
+        "isCorrect": true,
+        "text": "Trong mẫu thử tương tác độ tin cậy cao, sơ đồ điều hướng được định nghĩa rõ ràng"
+      },
+      {
+        "isCorrect": true,
+        "text": "Trong mẫu thử giao diện độ tin cậy thấp, có thể phát hiện các vấn đề về bố cục màn hình"
+      }
+    ]
+  },
+  {
+    "question": "Giám đốc công ty ABC quyết định sử dụng một phần mềm quản lý công việc trong công ty, với các chức năng chính là giao việc, báo cáo kết quả thực hiện công việc và giám sát thực hiện công việc. Phần mềm này rất tiết kiệm tài nguyên, tuy nhiên giao diện của phần mềm là giao diện command-lines. Điều gì sẽ xảy ra khi phần mềm này được triển khai trong thực tế ?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Hầu hết nhân viên sẽ cảm thấy mất tinh thần và không muốn sử dụng phần mềm này"
+      }
+    ]
+  },
+  {
+    "question": "Lý do nào sau đây là lý do chính đáng để đưa âm thanh vào giao diện?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "So với tín hiệu hình ảnh, người dùng phản ứng với tín hiệu âm thanh nhanh hơn"
+      }
+    ]
+  },
+  {
+    "question": "Lý do nào sau đây là lý do chính đáng để bạn quan tâm đến việc thiết kế một giao diện tốt cho phần mềm?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Không phải mọi người dùng đều là chuyên gia máy tính"
+      }
+    ]
+  },
+  {
+    "question": "_____ cung cấp sự hiểu biết về các nhiệm vụ mà người dùng cần thực hiện để đạt được các mục tiêu nhất định.",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Biểu đồ HTA (hierarchical task analysis)"
+      }
+    ]
+  },
+  {
+    "question": "______ tham chiếu tới cách đối tượng nên được sử dụng; một manh mối trực quan về chức năng và công dụng của đối tượng đó.",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "thế chỗ (affordance)"
+      }
+    ]
+  },
+  {
+    "question": "_______ là cách biểu diễn cấu trúc của website.",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Site map"
+      }
+    ]
+  },
+  {
+    "question": "Bảng câu hỏi thực hiện sau khi kiểm thử tính dùng được (usability testing) thường được sử dụng để đo:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Mức độ hài lòng của người dùng"
+      }
+    ]
+  },
+  {
+    "question": "Phương pháp tạo kịch bản (storyboarding):",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thường được thực hiện trong thiết kế độ tin cậy thấp"
+      }
+    ]
+  },
+  {
+    "question": "Cung cấp các tiện ích giá trị gia tăng, ví dụ như các phím tắt nhằm nâng cao:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tính năng suất"
+      }
+    ]
+  },
+  {
+    "question": "Luồng thông tin của một website thường chỉ ra:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thứ tự các hành động người dùng cần làm để hoàn thành một nhiệm vụ"
+      }
+    ]
+  },
+  {
+    "question": "Theo các nguyên lý thiết kế của Norman, bánh xe giữa 2 phím chuột phải / trái là ________ của thao tác lăn, không phải thao tác nhấn.",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thế chỗ"
+      }
+    ]
+  },
+  {
+    "question": "Hệ tương tác cần cung cấp các phản hồi chính xác và phù hợp để tránh trường hợp người dùng _______:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Đánh giá sai"
+      }
+    ]
+  },
+  {
+    "question": "Hệ tương tác cần quan tâm đến khả năng sai sót và sơ suất của người dùng để tránh trường hợp người dùng _______:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Gặp nhiều tình huống phát sinh lỗi"
+      }
+    ]
+  },
+  {
+    "question": "Hệ tương tác cần có tính ánh xạ (mapping) để tránh trường hợp người dùng _______:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Nhớ nhiều"
+      }
+    ]
+  },
+  {
+    "question": "Hệ tương tác cần có tính ràng buộc vật lý và thế chỗ để tránh trường hợp người dùng _______:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Không rõ phải làm gì với hệ thống"
+      }
+    ]
+  },
+  {
+    "question": "Hệ tương tác cần có tính nhất quán để tránh trường hợp người dùng _______:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Hiểu nhầm cách hoạt động thực tế của hệ thống"
+      }
+    ]
+  },
+  {
+    "question": "Yếu tố nào sau đây liên quan đến việc đo đánh giá tính dùng được? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tốc độ thực hiện"
+      },
+      {
+        "isCorrect": true,
+        "text": "Tỉ lệ lỗi"
+      },
+      {
+        "isCorrect": true,
+        "text": "Sự thỏa mãn chủ quan"
+      }
+    ]
+  },
+  {
+    "question": "Luồng thông tin của một website thường chỉ ra:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thứ tự các hành động người dùng cần làm để hoàn thành một nhiệm vụ"
+      }
+    ]
+  },
+  {
+    "question": "Khả năng tiếp nhận âm thanh của con người không phụ thuộc vào các yếu tố nào sau đây? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Độ vang"
+      },
+      {
+        "isCorrect": true,
+        "text": "Tiếng vọng"
+      }
+    ]
+  },
+  {
+    "question": "Lập luận quy nạp là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Dùng những chứng cứ thu thập trong quá trình quan sát để đi tới kết luận"
+      }
+    ]
+  },
+  {
+    "question": "Suy luận là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Từ những giả thiết có sẵn dẫn dắt để đi tới điều cần chứng minh là đúng"
+      }
+    ]
+  },
+  {
+    "question": "Lập luận không phải là: (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Sử dụng toán học để chứng minh luận điểm"
+      },
+      {
+        "isCorrect": true,
+        "text": "Tư duy bằng các phương pháp luận giữa con người và thế giới tự nhiên"
+      }
+    ]
+  },
+  {
+    "question": "Điều nào sau đây là đúng về tính dễ đọc của văn bản:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Nếu dòng quá dài, văn bản sẽ khó đọc"
+      }
+    ]
+  },
+  {
+    "question": "Kiểu chữ nào sau đây thường được sử dụng để nhấn mạnh nội dung văn bản?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Đậm"
+      }
+    ]
+  },
+  {
+    "question": "Để đảm bảo độ tương phản, thiết kế thường sử dụng màu … cho nền và màu … cho văn bản.",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Trắng, đen"
+      }
+    ]
+  },
+  {
+    "question": "Điều nào sau đây thể hiện tính nhất quán của giao diện? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Cơ chế đầu vào là giống nhau trong ứng dụng"
+      },
+      {
+        "isCorrect": true,
+        "text": "Thông tin trực quan được tổ chức theo một tiêu chuẩn thiết kế"
+      }
+    ]
+  },
+  {
+    "question": "Một ví dụ về câu hỏi trong phân tích nhiệm vụ là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Bạn sẽ thay đổi ảnh hồ sơ của mình trong ứng dụng này như thế nào?"
+      }
+    ]
+  },
+  {
+    "question": "Giao tiếp có cung cấp thêm chức năng tăng tốc (như phím tắt) nhằm mục đích:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tăng hiệu quả (effectiveness) của tương tác"
+      }
+    ]
+  },
+  {
+    "question": "Khi người dùng tham gia vào các nhiệm vụ phức tạp, yêu cầu về điều nào sau đây là quan trọng?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Bộ nhớ ngắn hạn"
+      }
+    ]
+  },
+  {
+    "question": "Trong một thiết kế tương tác người - máy tốt, phát biểu nào sau đây là sai? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Các chức năng được khởi động độc lập"
+      },
+      {
+        "isCorrect": true,
+        "text": "Chức năng phức tạp nên được điều khiển theo quy trình (dưới dạng một chuỗi thao tác)"
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây là đúng đối với một thiết kế tốt?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thiết kế tốt cần đến từ một quy trình lặp hướng đến người dùng"
+      }
+    ]
+  },
+  {
+    "question": "Nguyên tắc thiết kế giao diện nào sau đây làm giảm tải bộ nhớ của người dùng? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Xác định các phím tắt"
+      },
+      {
+        "isCorrect": true,
+        "text": "Cung cấp thông tin theo sự tiến bộ"
+      },
+      {
+        "isCorrect": true,
+        "text": "Thiết lập các giá trị mặc định có ý nghĩa"
+      }
+    ]
+  },
+  {
+    "question": "Loại giao diện người dùng nào cung cấp đầu vào bằng cách nhập một chuỗi kí tự từ bàn phím?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Giao diện người dùng dòng lệnh"
+      }
+    ]
+  },
+  {
+    "question": "Ưu điểm khi sử dụng bảng câu hỏi so với phỏng vấn là gì (chọn 3)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Dễ phân tích và so sánh"
+      },
+      {
+        "isCorrect": true,
+        "text": "Dễ lặp lại"
+      },
+      {
+        "isCorrect": true,
+        "text": "Có thể tiếp cận một nhóm chủ đề rộng"
+      }
+    ]
+  },
+  {
+    "question": "Điều nào sau đây là vấn đề với việc tạo mẫu thử độ tin cậy thấp? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Không kiểm chứng được tính dùng được và các thao tác"
+      },
+      {
+        "isCorrect": true,
+        "text": "Không chắc chắn trong quá trình thử nghiệm"
+      }
+    ]
+  },
+  {
+    "question": "Đặc tính quan trọng nhất mà một mẫu thử (prototype) cần phải có là gì?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Cho phép người dùng thử nghiệm các thiết kế chính"
+      }
+    ]
+  },
+  {
+    "question": "Trong thiết kế giao diện người dùng, bố cục màn hình thể hiện: (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thiết kế đồ họa và vị trí của các phần tử giao diện"
+      },
+      {
+        "isCorrect": true,
+        "text": "Xác định đặc điểm kỹ thuật của các cửa sổ"
+      },
+      {
+        "isCorrect": true,
+        "text": "Các menu chính và menu con"
+      }
+    ]
+  },
+  {
+    "question": "Sản phẩm của thiết kế giao diện người dùng là? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Kịch bản người dùng"
+      },
+      {
+        "isCorrect": true,
+        "text": "Bố cục màn hình"
+      },
+      {
+        "isCorrect": true,
+        "text": "Một nguyên mẫu giao diện được phát triển và sửa đổi theo kiểu lặp đi lặp lại"
+      }
+    ]
+  },
+  {
+    "question": "Lĩnh vực nào sau đây có ảnh hưởng đến tương tác người - máy?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tâm lý học nhận thức, công thái học, khoa học máy tính"
+      }
+    ]
+  },
+  {
+    "question": "Loại mẫu thử nào sau đây cho phép kiểm tra tính trực quan của các chức năng của một ứng dụng:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Mẫu thử giao diện độ tin cậy cao"
+      }
+    ]
+  },
+  {
+    "question": "Loại mẫu thử nào sau đây cho phép kiểm tra bảng màu (color scheme) của một ứng dụng:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Mẫu thử giao diện độ tin cậy cao"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là ưu điểm của mẫu thử độ tin cậy cao? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Người dùng sẽ tập trung rất nhiều vào các chi tiết thiết kế, như logo, phông chữ, bảng màu"
+      },
+      {
+        "isCorrect": true,
+        "text": "So với các loại mẫu thử khác, cần nhiều nỗ lực và thời gian hơn để tạo ra mẫu thử sẵn sàng để kiểm thử tính dùng được"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là ưu điểm của mẫu thử độ tin cậy thấp? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "So với các loại mẫu thử khác, cần ít nỗ lực và thời gian hơn để tạo ra mẫu thử sẵn sàng để kiểm thử tính dùng được"
+      },
+      {
+        "isCorrect": true,
+        "text": "Người dùng không sa đà vào việc bình luận về màu sắc, phông chữ, hay các phần tử giao diện"
+      }
+    ]
+  },
+  {
+    "question": "Paper and pen based sketches thuộc loại mẫu thử nào dưới đây?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Mẫu thử giao diện độ tin cậy thấp"
+      }
+    ]
+  },
+  {
+    "question": "Dạng suy luận logic để rút ra kết luận cần thiết từ các tiền đề đã cho được gọi là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Suy diễn (Deduction)"
+      }
+    ]
+  },
+  {
+    "question": "Cho 2 phát biểu sau:Phát biểu 1:Luật Fitts sử dụng công thức thời gian di chuyển = a + b log2 (khoảng cách / kích thước + 1) trong đó a và b là các hằng số được xác định theo kinh nghiệm.Phát biểu 2:Các nghiên cứu về sử dụng bàn phím đã chỉ ra rằng, với những người có tốc độ gõ phím nhanh hơn thì khả năng mắc lỗi lại thấp hơn so với những người có tốc độ gõ phím chậm hơn.",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Cả hai phát biểu đều Đúng"
+      }
+    ]
+  },
+  {
+    "question": "Một phần mềm có thể cho phép người dùng tương tác qua (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Lệnh bàn phím"
+      },
+      {
+        "isCorrect": true,
+        "text": "Bàn phím và chuột"
+      },
+      {
+        "isCorrect": true,
+        "text": "Giọng nói"
+      }
+    ]
+  },
+  {
+    "question": "Yếu tố nào sau đây là quan trọng trong thiết kế giao diện? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Yêu cầu của người dùng, thao tác kiểm tra"
+      },
+      {
+        "isCorrect": true,
+        "text": "Có sự tham gia của người dùng, trải nghiệm của người dùng"
+      }
+    ]
+  },
+  {
+    "question": "Thiết kế lấy người dùng làm trung tâm rất quan trọng vì:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thiết kế phải phục vụ cho nhu cầu cụ thể của người sử dụng"
+      }
+    ]
+  },
+  {
+    "question": "Quy trình thiết kế lặp là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thiết kế - Tạo mẫu thử - Đánh giá"
+      }
+    ]
+  },
+  {
+    "question": "Trong quy trình thiết kế lặp, bước tạo mẫu thử:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Cần được thực hiện theo yêu cầu của người dùng"
+      }
+    ]
+  },
+  {
+    "question": "Mệnh đề nào sau đây đúng với khái niệm trải nghiệm người dùng (viết tắt là “UX”)?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Bao gồm các vấn đề về hiệu suất, ảnh hưởng và sự hài lòng của người dùng"
+      }
+    ]
+  },
+  {
+    "question": "So với email không có ảnh GIF động, các email có GIFS động được người dùng cảm nhận:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Bớt buồn tẻ"
+      }
+    ]
+  },
+  {
+    "question": "Điều nào sau đây mô tả đánh giá hình thành trải nghiệm người dùng?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Kiểm tra khả năng sử dụng một cách định tính trên một mẫu thử nghiệm để tìm ra những thay đổi nào cần được thực hiện"
+      }
+    ]
+  },
+  {
+    "question": "Bản đồ thấu cảm (empathy map) là gì?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Hình ảnh tổng hợp trình bày rõ những gì chúng ta biết về một kiểu người dùng"
+      }
+    ]
+  },
+  {
+    "question": "Wireframes là cách thức hữu ích để chỉ ra:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Cách bố trí các phần tử điều khiển trên giao diện người dùng"
+      }
+    ]
+  },
+  {
+    "question": "Trong số các lựa chọn sau đây, đâu là các mẫu thử (prototype)? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Bản phác thảo tương tác (sketch)"
+      },
+      {
+        "isCorrect": true,
+        "text": "Bản phác thảo giấy (mock-ups)"
+      }
+    ]
+  },
+  {
+    "question": "Tính chất nào sau đây mô tả người dùng đã xác định đúng mục tiêu tương tác và hoàn thành đúng việc cần làm trong một bối cảnh cụ thể?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Độ hiệu quả (Effectiveness)"
+      }
+    ]
+  },
+  {
+    "question": "Loại menu nào sau đây tối ưu hóa thời gian di chuyển dự kiến từ con trỏ (được đặt trên nhãn menu) đến một tùy chọn tùy ý bên trong menu?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Menu bánh xe hoặc menu vòng cung (pie or radial menu)"
+      }
+    ]
+  },
+  {
+    "question": "Mục tiêu của thiết kế hệ thống tương tác là ?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tối đa tính dùng được"
+      }
+    ]
+  },
+  {
+    "question": "Trong giai đoạn đầu của thiết kế tương tác, cách thức sử dụng màu tốt nhất là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Không sử dụng màu"
+      }
+    ]
+  },
+  {
+    "question": "Tính dùng được cho phép:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Xác định cách thức người dùng sử dụng sản phẩm"
+      }
+    ]
+  },
+  {
+    "question": "Trên Windows Explorer, để di chuyển một tệp / thư mục (nguồn) đến một thư mục đích, người dùng có thể chọn biểu tượng tệp/thư mục nguồn và thực hiện thao tác kéo thả chúng vào thư mục đích. Đây là một ví dụ về: (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Nguyên tắc nhận biết (recognition)"
+      },
+      {
+        "isCorrect": true,
+        "text": "Biểu diễn thao tác"
+      },
+      {
+        "isCorrect": true,
+        "text": "Mô tả ý định của người dùng"
+      }
+    ]
+  },
+  {
+    "question": "Khi thực hiện thao tác kéo một thư mục vào một thư mục khác, trên màn hình xuất hiện một ảnh động thể hiện thao tác copy/move thư mục này sang thư mục khác. Đây là một ví dụ về:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tính phản hồi (feedback)"
+      }
+    ]
+  },
+  {
+    "question": "Một mô hình khái niệm (conceptual model) là gì?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Mô tả ở mức độ trừu tượng cao về cách hệ thống được tổ chức và cách nó hoạt động"
+      }
+    ]
+  },
+  {
+    "question": "Chọn phương án có thứ tự tối ưu nhất để thu thập yêu cầu người dùng:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Khảo sát -> Thảo luận nhóm tập trung -> Phỏng vấn"
+      }
+    ]
+  },
+  {
+    "question": "Trong mô hình HTA, mối quan hệ giữa nhiệm vụ (tasks), hành động (actions) và mục tiêu (goals) thể hiện như thế nào?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Các nhiệm vụ đảm bảo việc hoàn thành một mục tiêu nào đó"
+      }
+    ]
+  },
+  {
+    "question": "Mục tiêu của phân tích nhiệm vụ là gì?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Để xác định các tác vụ mà người dùng có nhiều khả năng thực hiện nhất"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là nhược điểm của việc tạo mẫu thử có độ tin cậy cao?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Xây dựng các nguyên mẫu có độ trung thực cao tốn nhiều thời gian"
+      }
+    ]
+  },
+  {
+    "question": "Điều nào sau đây là phù hợp cho việc tạo mẫu thử độ tin cậy thấp (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Chỉ bố cục đen trắng"
+      },
+      {
+        "isCorrect": true,
+        "text": "Phác thảo trên giấy"
+      }
+    ]
+  },
+  {
+    "question": "Một ... có thể được thêm vào bản trình bày (slide) để đi đến nhiều vị trí khác nhau (ví dụ: địa chỉ web, địa chỉ e-mail, chương trình hoặc tài liệu).",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Siêu liên kết (Hyperlink)"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là một nhiệm vụ khó khăn khi điều hướng trên một trang web thương mại điện tử?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Hủy mua hàng"
+      }
+    ]
+  },
+  {
+    "question": "Hình thức trợ giúp tốt nhất là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Không cần trợ giúp"
+      }
+    ]
+  },
+  {
+    "question": "So với những người dùng bỏ qua hướng dẫn để sử dụng một ứng dụng game trên thiết bị di động, những người dùng xem qua hướng dẫn sẽ:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Cảm thấy nhiệm vụ trong ứng dụng ít thú vị hơn"
+      }
+    ]
+  },
+  {
+    "question": "Sự khác biệt giữa bản đồ hành trình của khách hàng (customer-journey map) và bản đồ trải nghiệm (experience map) là gì?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Bản đồ trải nghiệm không phù hợp với bất kỳ sản phẩm cụ thể nào, trong khi Bản đồ hành trình của khách hàng gắn liền với một sản phẩm hoặc dịch vụ cụ thể"
+      }
+    ]
+  },
+  {
+    "question": "Một user persona trong bối cảnh thiết kế tương tác: (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Được sử dụng để nhập vai thông qua một thiết kế giao diện"
+      },
+      {
+        "isCorrect": true,
+        "text": "Đại diện cho một kiểu người dùng cụ thể"
+      }
+    ]
+  },
+  {
+    "question": "Luật Fitt về sự dịch chuyển chỉ ra:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thời gian đến mục tiêu phụ thuộc vào khoảng cách và kích thước của mục tiêu đó"
+      }
+    ]
+  },
+  {
+    "question": "Thông tin về các kích thích (stimulus) đi qua bộ nhớ cảm nhận theo thứ tự như thế nào?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "(1) Sensory memory - (2) Short-term memory - (3) Long-term memory"
+      }
+    ]
+  },
+  {
+    "question": "Khái niệm nào sau đây KHÔNG nằm trong lý thuyết Gestalt:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tính nhất quán (consistency)"
+      }
+    ]
+  },
+  {
+    "question": "Hai kiểu bộ nhớ có ý thức của bộ nhớ dài hạn (Long-term memory) là:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Rời rạc (Episodic) và Ngữ nghĩa (Semantic)"
+      }
+    ]
+  },
+  {
+    "question": "Hình ảnh sau là minh họa của khái niệm gì trong lý thuyết Gestalt?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tính liên tục (Continuity)"
+      }
+    ]
+  },
+  {
+    "question": "Trong điều kiện ánh sáng tối, chúng ta khó cảm nhận được màu sắc do:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Các tế bào hình que nhạy cảm với ánh sáng"
+      }
+    ]
+  },
+  {
+    "question": "Cái nào sau đây không phải là một kiểu tương tác?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Nhận dạng giọng nói"
+      }
+    ]
+  },
+  {
+    "question": "Thành phần nào sau đây không được sử dụng để điều hướng?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thanh tiến trình (Progress bar)"
+      }
+    ]
+  },
+  {
+    "question": "User persona được thiết kế dựa trên:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thông tin người dùng (User profiles)"
+      }
+    ]
+  },
+  {
+    "question": "Những yếu tố nào là quan trọng trong việc thiết kế giao diện? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thực hành thiết kế lặp"
+      },
+      {
+        "isCorrect": true,
+        "text": "Hiểu người dùng và các tác vụ của họ"
+      }
+    ]
+  },
+  {
+    "question": "Kỹ thuật thu thập yêu cầu người dùng nào là phù hợp nhất để hiểu ngữ cảnh các hoạt động của người dùng?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Quan sát tự nhiên"
+      }
+    ]
+  },
+  {
+    "question": "Các yêu cầu chức năng chỉ ra những gì hệ thống phải làm trong khi các yêu cầu phi chức năng chỉ ra:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Ràng buộc hệ thống"
+      }
+    ]
+  },
+  {
+    "question": "Mô hình nào mô tả giao diện người dùng cùng với tất cả thông tin hỗ trợ?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Mô hình thực hiện"
+      }
+    ]
+  },
+  {
+    "question": "Trong kịch bản sau: \"Kỹ sư điều khiển một cánh tay robot thông qua một phần mềm điều khiển mô phỏng trên thiết bị di động\", đâu là tương tác?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Điều khiển cánh tay robot"
+      }
+    ]
+  },
+  {
+    "question": "Trong các mô thức đánh giá thiết kế, mô thức nào có vai trò của người dùng trong đánh giá là thấp nhất?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Dự đoán"
+      }
+    ]
+  },
+  {
+    "question": "Yếu tố nào nên được hạn chế trong một thiết kế giao diện web?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Số lượng font chữ"
+      }
+    ]
+  },
+  {
+    "question": "Tính nhất quán của giao diện được thể hiện qua: (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Cơ chế Input giống nhau trong suốt ứng dụng"
+      },
+      {
+        "isCorrect": true,
+        "text": "Các hình ảnh được thiết kế theo cùng một tiêu chuẩn"
+      }
+    ]
+  },
+  {
+    "question": "Những yếu tố nào không được đưa vào một thiết kế wireframe? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Màu sắc"
+      },
+      {
+        "isCorrect": true,
+        "text": "Ảnh"
+      },
+      {
+        "isCorrect": true,
+        "text": "Các loại font chữ"
+      }
+    ]
+  },
+  {
+    "question": "Người dùng đọc một trang web như thế nào?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Người dùng không đọc, chỉ scan cả trang web để chọn các câu và từ riêng biệt"
+      }
+    ]
+  },
+  {
+    "question": "Khái niệm nào sau đây KHÔNG PHẢI là ngôn ngữ thiết kế cho thiết bị di động?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Responsive design"
+      }
+    ]
+  },
+  {
+    "question": "Hai loại tương tác điều hướng cho thiết bị di động là",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Touch & scroll"
+      }
+    ]
+  },
+  {
+    "question": "Chỉ ra luồng thông tin thông thường trên thiết bị di động?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Header - Navigation - Content - Navigation - Footer"
+      }
+    ]
+  },
+  {
+    "question": "Giao diện được thiết kế với nhiều hình ảnh chuyển động có thể:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Làm người dùng phân tâm"
+      }
+    ]
+  },
+  {
+    "question": "Tăng độ tương phản trên màn hình có thể:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Đảm bảo tính rõ ràng"
+      }
+    ]
+  },
+  {
+    "question": "Mệnh đề nào sau đây là đúng? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Với quy trình thiết kế lấy người dùng làm trung tâm, bước đầu tiên là xác định và phân loại người dùng tiềm năng trong tương lai"
+      },
+      {
+        "isCorrect": true,
+        "text": "Tại bước 3 của quy trình thiết kế lấy người dùng làm trung tâm, cần chú trọng dự báo phân khúc thị trường để sản phẩm được thị trường chấp nhận"
+      }
+    ]
+  },
+  {
+    "question": "Khi thiết kế giao diện cho các trò chơi trên thiết bị di động, chúng ta phải:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Hỗ trợ các tính năng tạm dừng (pause) và lưu (save)"
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây là sai?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Material Design là thiết kế phẳng"
+      }
+    ]
+  },
+  {
+    "question": "Storyboarding là kỹ thuật tạo mẫu thử cho phép người thiết kế:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Tập trung vào các nhiệm vụ người dùng đang thực hiện"
+      }
+    ]
+  },
+  {
+    "question": "Wizard of Oz là kỹ thuật tạo mẫu thử cho phép người thiết kế: (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Vạch ra các kịch bản người dùng (user scenario) và các luồng hành vi của ứng dụng"
+      },
+      {
+        "isCorrect": true,
+        "text": "Mô phỏng các hành vi tương tác và các chức năng ứng dụng cung cấp"
+      }
+    ]
+  },
+  {
+    "question": "Khi muốn phỏng vấn người dùng về cảm tưởng của họ với một tính năng của một ứng dụng cụ thể, nên sử dụng câu hỏi nào? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Bạn nghĩ thế nào về tính năng ABC của ứng dụng XYZ?"
+      },
+      {
+        "isCorrect": true,
+        "text": "Trên thang điểm 100, bạn cho tính năng ABC của ứng dụng XYZ bao nhiêu điểm hài lòng?"
+      }
+    ]
+  },
+  {
+    "question": "Bạn thực hiện mua sắm trên một trang thương mại điện tử. Bạn biết rằng nếu bạn đăng ký gói dịch vụ ưu đãi giao hàng của bên thứ 3, bạn sẽ được miễn phí 10 lần giao hàng. Tuy nhiên, bạn không biết là bạn sẽ được hưởng ưu đãi này ngay khi đăng ký trên trang thương mại điện tử, hay phải đợi đến lúc có xác nhận của nhà cung cấp gói dịch vụ ưu đãi giao hàng. Tiêu chí / nguyên tắc thiết kế nào dưới đây đã bị vi phạm?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Trợ giúp và tài liệu (Help and documentation)"
+      }
+    ]
+  },
+  {
+    "question": "Chọn phát biểu sai trong thiết kế giao diện web:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Trợ giúp tương tác là nói với người dùng họ đang ở đâu, và họcó thể tiếp tục đi đến đâu"
+      }
+    ]
+  },
+  {
+    "question": "Đâu không phải nhiệm vụ chính của thiết kế giao diện web ?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thiết kế dữ liệu"
+      }
+    ]
+  },
+  {
+    "question": "Chọn phát biểu sai đối với việc đánh giá tính dùng được của hệ tương tác?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Đánh giá hình thành được sử dụng để nhận biết tính dùng được"
+      }
+    ]
+  },
+  {
+    "question": "Đâukhông phải là nhiệm vụ trong đánh giá tương tác ?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Xácđịnh các vấn đề tồn tại của hệ thống đối với người dùng"
+      }
+    ]
+  },
+  {
+    "question": "Kỹ thuật kiểm thử người dùng trong môi trường làm việc của họ (onsite) và kỹ thuật kiểm thử người dùng tại nơi phát triển hệ tương tác (lab-based) giống nhau ở:",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Thời gian thực hiện"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là phát biểu không đúng về đánh giá hình thành?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Đánh giá hình thành   ghi lại những điều mà người dùng suy nghĩ"
+      }
+    ]
+  },
+  {
+    "question": "Phát biểu nào sau đây là sai về người dùng trong đánh giátính dùng được của hệ tương tác ?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "có thể dự đoán được người dùng sẽ làm gì"
+      }
+    ]
+  },
+  {
+    "question": "Phátbiểu nào sau đây là sai về đánh giá tính dùng được?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Dữ liệu kiểm tra có thể được lấy từ nhật ký"
+      },
+      {
+        "isCorrect": true,
+        "text": "Có thể sử dụng kinh nghiệm trong quá khứ của người dùng"
+      }
+    ]
+  },
+  {
+    "question": "Khẳng định nào là đúng đối với kỹ thuật kiểm thử người dùng trong phòng thí nghiệm (chọn 3) ?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "dùng để kiểm tra giả thiết cụ thể"
+      },
+      {
+        "isCorrect": true,
+        "text": "được thực hiện nhanh với các dữ liệu giống nhau"
+      },
+      {
+        "isCorrect": true,
+        "text": "với một nhiệm vụ cụ thể cho trước khả năng xảy ra lỗi là ít"
+      }
+    ]
+  },
+  {
+    "question": "Điều nào sau đây KHÔNG phải là ví dụ về tăng tốc?",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Các phần tử trong menu \"Insert\" của ứng dụng soạn thảo văn bản Microsoft Word"
+      }
+    ]
+  },
+  {
+    "question": "Đâu là các yếu tố ảnh hưởng tới khả năng cảm nhận bằng thị giác của con người? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Khoảng cách"
+      },
+      {
+        "isCorrect": true,
+        "text": "Kích thước và chiều cao"
+      }
+    ]
+  },
+  {
+    "question": "Luật Fitts được dùng để: (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Dự báo rằng thời gian cần thiết để nhanh chóng di chuyển đến một vị trí đích phụ thuộc vào khoảng cách tới đích và kích thước đích"
+      },
+      {
+        "isCorrect": true,
+        "text": "Mô hình hóa thời gian chuyển động đủ để lựa chọn một đối tượng"
+      },
+      {
+        "isCorrect": true,
+        "text": "Mô tả hiệu năng của các thiết bị vào"
+      }
+    ]
+  },
+  {
+    "question": "Xác định các sơ suất của con người trong các tình huống sau: (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Bạn cài đặt phần mềm MySQL để lưu trữ các dữ liệu cần khai thác bằng truy vấn SQL, nhưng bạn quên mất mật khẩu quản trị để cài đặt phần mềm này"
+      },
+      {
+        "isCorrect": true,
+        "text": "Khi bạn soạn một văn bản, bạn gõ sai một từ tiếng Anh dù bạn biết từ đó đánh vần như thế nào"
+      }
+    ]
+  },
+  {
+    "question": "Các phát biểu nào sau đây là đúng? (chọn 2)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": "Chất lượng giao tiếp phụ thuộc chất lượng tương tác"
+      },
+      {
+        "isCorrect": true,
+        "text": "Xét chức năng \"gọi điện thoại\" trên điện thoại di động. Khi có nhiều lớp người dùng khác nhau về năng lực hành vi, trình độ, lứa tuổi .., cần cung cấp nhiều kiểu tương tác khác nhau để thực hiện chức năng này"
+      }
+    ]
+  }
+]

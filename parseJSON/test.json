@@ -1,0 +1,29 @@
+[
+  {
+    "question": "Định nghĩa tương tác người máy của Baecker và Buxton đề cập đến những yếu tố nào sau đây? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": ["Quá trình", "Đối thoại", "Hành động"]
+      }
+    ]
+  },
+  {
+    "question": "Định nghĩa tương tác người máy của ACM SIGCHI đề cập đến những yếu tố nào sau đây? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": ["Thiết kế", "Đánh giá", "Cài đặt"]
+      }
+    ]
+  },
+  {
+    "question": "Định nghĩa tương tác người máy của ACM SIGCHI đề cập đến những yếu tố nào sau đây? (chọn 3)",
+    "answers": [
+      {
+        "isCorrect": true,
+        "text": ["Thiết kế"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IT4898</title>
+  <style>
+    * {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      padding: 0;
+      margin: 0;
+      -webkit-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+
+    body {
+      padding: 3rem;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+
+    ul,
+    ol {
+      list-style: none;
+    }
+
+    #quiz-list {
+      display: flex;
+      flex-wrap: wrap;
+      column-gap: 3rem;
+      row-gap: 1.5rem;
+    }
+
+    .quiz {
+      margin-bottom: 0.75rem;
+      width: calc(50% - 1.5rem);
+    }
+
+    .question {
+      text-align: justify;
+    }
+
+    .answer {
+      margin-left: 1.5rem;
+      margin-top: 0.75rem;
+    }
+
+    .answer--true {
+      color: rgb(0, 128, 0);
+      font-weight: bold;
+      text-shadow: 0 0 3px rgba(0, 128, 0, 0.5);
+    }
+
+    .answer--false {
+      color: rgb(255, 0, 0);
+      font-weight: bold;
+      text-shadow: 0 0 3px rgba(255, 0, 0, 0.5);
+    }
+
+    @media screen and (max-width: 992px) {
+      .quiz {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <h1 onclick="showAllAnswers()">Trắc nghiệm - IT4898</h1>
+  <ul id="quiz-list"></ul>
+
+  <script>
+    const toUpperFirstCase = (str) => {
+      str = str.trim();
+      return str.charAt(0).toUpperCase() + str.slice(1);
+    };
+
+    const checkAnswer = (event) => {
+      const answer = event.target;
+      const isCorrect = answer.getAttribute("correct");
+      if (answer.classList.contains(`answer--${isCorrect}`)) answer.classList.remove(`answer--${isCorrect}`);
+      else answer.classList.add(`answer--${isCorrect}`);
+    };
+
+    const showAnswer = (event) => {
+      const question = event.target;
+      const quiz = question.parentElement;
+      const answer = quiz.querySelector("[correct=true]");
+      if (answer.classList.contains("answer--true")) answer.classList.remove("answer--true");
+      else answer.classList.add("answer--true");
+    };
+
+    const showAllAnswers = () => {
+      const correctAnswers = document.querySelectorAll("[correct=true]");
+      correctAnswers.forEach((ans) => {
+        if (ans.classList.contains("answer--true")) ans.classList.remove("answer--true");
+        else ans.classList.add("answer--true");
+      });
+    };
+
+    const shuffleArr = (arr) => {
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+      }
+      return arr;
+    };
+
+    fetch("./IT4898.json")
+      .then((response) => response.json())
+      .then((quizzes) => {
+        const list = document.getElementById("quiz-list");
+        const questions = shuffleArr(quizzes);
+        console.log(questions);
+        questions.forEach((quiz, id) => {
+          const answers = shuffleArr(quiz.answers);
+          return (list.innerHTML += `
+            <li class="quiz">
+              <h3 class="question" onclick="showAnswer(event)">Câu ${id + 1}: ${toUpperFirstCase(quiz.question)}</h3>
+              ${answers.reduce(
+                (str, ans, idx) =>
+                  str +
+                  `<div class="answer" correct=${ans.isCorrect} onclick="checkAnswer(event)">${String.fromCharCode(
+                    idx + 65
+                  )}. ${toUpperFirstCase(ans.text)}</div>`,
+                ""
+              )}
+            </li>
+          `);
+        });
+      })
+      .catch((error) => console.error(error));
+  </script>
+</body>
+
+</html>
